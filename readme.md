@@ -7,6 +7,8 @@ follow along:
 
 https://github.com/substack/oscal-2016-slides
 
+please get out your laptop and try things out!
+
 ---
 # the web
 
@@ -384,6 +386,8 @@ http://dat-data.com/
 
 hypercore/hyperdrive lets the publisher update files to peers
 after the files have been sent
+
+You can use hypercore to make a p2p live streaming app!
 
 ---
 # hypercore
